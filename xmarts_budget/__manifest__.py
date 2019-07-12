@@ -3,7 +3,7 @@
     'name': "xmarts_budget",
 
     'summary': """
-        Adecuaciones a presupuestos""",
+        Adecuaciones a linea presupuestos """,
 
     'description': """
         Adecuaciones a presupuestos
